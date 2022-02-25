@@ -342,6 +342,9 @@ img{
         padding: 20px 50px;
     }  
 
+    .banner{background-position-x: -495px;}
+    
+
     .menu{
         position: fixed;
         top: 75px;
@@ -444,6 +447,7 @@ img{
     section{
         padding: 100px 20px;
     }
+    .banner{background-position-x: 495px;}
 }
 
 
