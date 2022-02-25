@@ -448,7 +448,30 @@ img{
         padding: 100px 20px;
     }
     .banner{background-position-x: 495px;}
+
+    .testimonial .content .testimonialBx p {
+        color: #fff;
+        font-style: italic;
+        font-size: 12px;
+        font-weight: 300;
+}
+.testimonial .content .testimonialBx {
+    padding: 26px 17px;
+    margin: 20px;
+    background: #2196f3;
 }
 
+.testimonial .content .testimonialBx h3 {
+    margin-top: 31px;
+    text-align: end;
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 2em;
+}
 
-
+.testimonial .content .testimonialBx h3 span {
+    font-size: 12px;
+    font-weight: 400;
+}
+}
